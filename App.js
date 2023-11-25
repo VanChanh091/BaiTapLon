@@ -11,8 +11,8 @@ export default function App() {
   return (
     <NavigationContainer>
       {/* <Stack.Navigator></Stack.Navigator> */}
-      {/* <User /> */}
-      <Notification />
+      <User />
+      {/* <Notification /> */}
     </NavigationContainer>
   );
 }

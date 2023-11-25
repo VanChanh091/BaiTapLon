@@ -1,0 +1,135 @@
+[
+  {
+    "name": "G982 | Sandal Đi Học Quai Chéo Màu Đen Ulzzang Đơn Giản Phong Cách Hàn Quốc LEMONA.VN",
+    "categories": [],
+    "location": "TP.HCM",
+    "images": [],
+    "price": 155.0,
+    "original_price": 220.0,
+    "sell_number": 10300,
+    "sizes": [
+      {
+        "name": "35",
+        "enable": true
+      },
+      {
+        "name": "36",
+        "enable": true
+      },
+      {
+        "name": "37",
+        "enable": true
+      },
+      {
+        "name": "38",
+        "enable": true
+      },
+      {
+        "name": "39",
+        "enable": true
+      },
+      {
+        "name": "40",
+        "enable": true
+      }
+    ]
+  },
+  {
+    "name": "Giày sandal Atikota thiết kế hở ngón phối quai chéo màu trơn xinh xắn thời trang cho nữ",
+    "categories": [],
+    "location": "Hồ Chí Minh",
+    "images": [],
+    "price": 153.636,
+    "original_price": 307.272,
+    "sell_number": 12200,
+    "colors": [
+      {
+        "name": "Vàng",
+        "enable": true
+      },
+      {
+        "name": "Đrn",
+        "enable": true
+      },
+      {
+        "name": "Trắng nhạt",
+        "enable": true
+      }
+    ],
+    "sizes": [
+      {
+        "name": "39",
+        "enable": true
+      },
+      {
+        "name": "0",
+        "enable": true
+      },
+      {
+        "name": "41",
+        "enable": true
+      },
+      {
+        "name": "42",
+        "enable": true
+      },
+      {
+        "name": "43",
+        "enable": true
+      },
+      {
+        "name": "44",
+        "enable": true
+      }
+    ]
+  },
+  {
+    "name": "Dép Sandal Đế Bệt Dày Thời Trang Mùa Hè Dành Cho Nữ Hq048",
+    "categories": [],
+    "location": "Hồ Chí Minh",
+    "images": [],
+    "price": 180.0,
+    "original_price": 90.0,
+    "sell_number": 42900,
+    "colors": [
+      {
+        "name": "Màu xanh lá",
+        "enable": true
+      },
+      {
+        "name": "Đen",
+        "enable": true
+      },
+      {
+        "name": "Be",
+        "enable": true
+      }
+    ],
+    "sizes": [
+      {
+        "name": "39",
+        "enable": true
+      },
+      {
+        "name": "0",
+        "enable": true
+      },
+      {
+        "name": "41",
+        "enable": true
+      },
+      {
+        "name": "42",
+        "enable": true
+      },
+      {
+        "name": "43",
+        "enable": true
+      },
+      {
+        "name": "44",
+        "enable": true
+      }
+    ]
+  }
+]
